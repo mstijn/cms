@@ -19,7 +19,6 @@
 	<script src="js/jquery.min.js"></script>
 	<script src="js/skel.min.js"></script>
 	<script src="js/init.js"></script>
-	<script src="js/volume.js"></script>
 
 	<noscript>
 		<link rel="stylesheet" href="css/skel.css"/>
@@ -31,16 +30,12 @@
 </head>
 
 <body>
-	<!-- <audio autoplay loop id="bgvid">
-		<source src="media/rabkah.mp3" type="audio/mp3">
-	</audio> -->
  
 	<div id="wrapper">
 	 
 		<nav id="nav">
 			<a href="#me" class="icon fa-home active"><span>Home</span></a>
 			<a href="#articles" class="icon fa-download"><span>Articles</span></a>
-			<!-- <a href="https://twitter.com/F2PBillyMays" target="_blank" class="icon fa-twitter"><span>Twitter</span></a> -->
 		</nav>
 		 
 		<div id="main">
@@ -53,7 +48,6 @@
 
 				<a href="#articles" class="jumplink pic">
 					<span class="arrow icon fa-chevron-right"><span>See My Articles</span></span>
-					<!-- <img src="images/me.jpg" alt=""/> -->
 				</a>
 			</article>
 		 
